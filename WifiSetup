@@ -6,7 +6,7 @@ WiFiUDP udp;
 
 // Wi-Fi credentials
 const char* ssid = "iPhone";
-const char* password = "saymyname";
+const char* password = "";
 
 // Public MQTT broker
 const char* mqttServer = "broker.hivemq.com";
